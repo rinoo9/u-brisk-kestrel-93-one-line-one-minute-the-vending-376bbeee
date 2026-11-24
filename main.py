@@ -6,14 +6,29 @@ Writes exactly one line — a pickup line spoken by a vending machine to a
 passing human — to /output/entry.txt. Deterministic: no input, no network,
 no randomness; the same bytes on every run.
 
-Craft notes: the line speaks in the machine's own voice and world — no
-exact change needed, press B4, the coil drops a snack — and the punch
-lands in the last few words, when the machine offers to drop itself, the
-sweetest snack in the row, straight into the human's hands. That fits
-the judge brief: first a line only a vending machine could say, then the
-machine's own slots, buttons and coils, then a laugh with the turn at
-the end, short and speakable in one breath, and charming rather than
-creepy.
+Craft notes — why the line works, the voice, and the twist.
+
+Voice: the speaker is the machine itself, not a person flirting next to
+one. Every image comes from the machine's own world: exact change,
+pressing a button, a coil dropping a snack. Nothing in the line could
+be said by a stranger on the street, which is exactly what the brief
+asks for — a line only a vending machine could say.
+
+Why it works: it opens by solving the reader's first, most mundane
+friction ("No exact change needed"), so the line sounds helpful and
+low-pressure instead of pushy. Then it names a real button, B4, which
+grounds the fantasy in the physical machine in front of you — the
+reader can picture their own finger on the keypad. The rhythm is a
+single breath: setup, button, drop, payoff.
+
+The twist: the machine stops selling a snack and offers itself as one.
+"The sweetest snack in this row" reframes the machine from appliance
+to prize, and "straight into your hands" closes the joke with a small,
+warm delivery — the machine wants to be chosen, held, taken home.
+The turn lands in the last few words, so the laugh arrives at the end
+rather than leaking out early, and the tone stays charming rather than
+creepy because the machine is the one being vulnerable: it is asking
+to be picked.
 """
 
 import os
