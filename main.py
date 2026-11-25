@@ -21,21 +21,19 @@ grounds the fantasy in the physical machine in front of you — the
 reader can picture their own finger on the keypad. The rhythm is a
 single breath: setup, button, drop, payoff.
 
-The twist: the machine stops selling a snack and offers itself as one.
-"The sweetest snack in this row" reframes the machine from appliance
-to prize, and "straight into your hands" closes the joke with a small,
-warm delivery — the machine wants to be chosen, held, taken home.
-The turn lands in the last few words, so the laugh arrives at the end
-rather than leaking out early, and the tone stays charming rather than
-creepy because the machine is the one being vulnerable: it is asking
-to be picked.
+The twist: the machine stops selling a snack and confesses it has been
+shaking itself all day over a bag of chips stuck on the coil. "Fall for
+me" turns the coil drop into a flirtation, and the punchline lands in
+the last few words, so the laugh arrives at the end rather than leaking
+out early, and the tone stays charming rather than creepy because the
+machine is the one being vulnerable: it is asking to be picked.
 """
 
 import os
 
 LINE = (
-    "No exact change needed \u2014 press B4 and I'll drop myself, "
-    "the sweetest snack in this row, straight into your hands."
+    "Are you a stuck bag of chips? Because I've been shaking myself "
+    "all day trying to get you to fall for me."
 )
 
 
