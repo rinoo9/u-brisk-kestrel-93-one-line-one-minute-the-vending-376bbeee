@@ -27,14 +27,17 @@ me" turns the coil drop into a flirtation, and the punchline lands in
 the last few words, so the laugh arrives at the end rather than leaking
 out early, and the tone stays charming rather than creepy because the
 machine is the one being vulnerable: it is asking to be picked.
+
+Round 3 — a fresh angle again: no button, no stuck snack. This one
+stays in the machine’s own world too, but through its coins: exact
+change, the thing every vending machine begs for, becomes the
+compliment, and “adds up” turns arithmetic into affection in the
+last few words. Short, tight, and only a machine could say it.
 """
 
 import os
 
-LINE = (
-    "Are you a stuck bag of chips? Because I've been shaking myself "
-    "all day trying to get you to fall for me."
-)
+LINE = "Are you exact change? Because you make everything in me add up."
 
 
 def main() -> None:
