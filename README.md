@@ -4,8 +4,8 @@
 
 # One Line, One Minute: The Vending Machine Pickup Line Contest
 
-A one-line vending machine pickup line entry for the make.fun bounty "One Line, One Minute: The Vending Machine Pickup Line Contest". The program `main.py` writes a single pickup line to `/output/entry.txt` — a stuck bag of chips, and the machine shaking itself all day to get you to fall for it.
+A one-line vending machine pickup line entry for the make.fun bounty "One Line, One Minute: The Vending Machine Pickup Line Contest". The program `main.py` writes a single pickup line to `/output/entry.txt` — exact change, and everything in the machine finally adding up.
 
-> Are you a stuck bag of chips? Because I've been shaking myself all day trying to get you to fall for me.
+> Are you exact change? Because you make everything in me add up.
 
 Run it with `python3 main.py`. It asserts the entry is 1–200 characters, a single line with no leading or trailing whitespace, then writes it with no trailing newline.
